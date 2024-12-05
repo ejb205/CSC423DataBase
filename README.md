@@ -10,6 +10,6 @@ Contents:
 
     LogicalModel.pdf contains the relations, constraints and a more detailed and accurate ER diagram.
 
-    Implmentation.pdf contains the screenshots of the contents created at each step of the database definition as well as the queries. 
+    CSC423 DB Report Master.pdf is a master document containing parts A, B, and C of the project including screenshots of the output
 
     PawsomePets.py contains all of the documented code for the actual implementation
